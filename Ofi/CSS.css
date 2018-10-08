@@ -1,0 +1,36 @@
+* 	{
+	margin: 0; padding: 0;
+	font-family: "Segoe UI";
+	text-decoration: none;
+}
+body{
+	background-image: url(1.jpg);
+}
+table{
+	margin-left: 510px;
+}
+form{
+	margin-top: 20px;
+	margin-left: 510px;
+}
+th{
+	background-color: #ffffff;
+}
+td{
+	background-color: gray;
+}
+h1{
+	color: #000000;
+	margin-top: 20px;
+}
+nav{
+	background-color: #000000;
+	height: 64px;
+	width: 100%;
+}
+nav li{
+	padding: 20px;
+	color: white;
+	font-size: 18px;
+	display: inline-block;
+}
